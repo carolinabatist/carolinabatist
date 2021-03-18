@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-pandas-informational?style=flat&logo=pandas&logoColor=white&color=blue)
-
+![](https://img.shields.io/badge/tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=blue)
 
 :construction_worker: I’m an architect currently learning Python and Data Analysis using pandas.
 
